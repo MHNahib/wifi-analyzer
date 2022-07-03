@@ -1,0 +1,26 @@
+a,
+li {
+  text-decoration: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-title {
+  margin: 16px 0;
+}
+
+.chart-container {
+  margin: 20px 10px;
+}
+
+footer {
+  padding: 20px;
+}
